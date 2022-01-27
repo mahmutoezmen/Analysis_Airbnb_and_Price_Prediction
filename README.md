@@ -13,8 +13,9 @@ ________________________________________________________________________________
 
 5) Matplotlib
 
-## Motivation
 ___________________________________________________________________________________________________________________________
+
+## Motivation
 
 These questions motivated me to find useful results from the data:
 
@@ -24,15 +25,18 @@ These questions motivated me to find useful results from the data:
 
 + Which neighbourhood has the highest number of reviews, and the highest number of rooms for every neighbourhood group? what can we learn from the results?
 
-## Files
 ___________________________________________________________________________________________________________________________
+
+## Files
 
 1) AB_NYC_2019.csv : this file contains the data which was used in the process, it was downloaded from Kaggle
 
 2) New York City Airbnb: This is the Jupyter Notebook which contains all of the code of the data science process with some markdown cells
 
-## Summary
 ___________________________________________________________________________________________________________________________
+
+## Summary
+
 This project extracted some of many useful insights associated with the listings in New York city AriBnB in 2019, specifically these insights related to the prices, hosts, room types in every neighborhood group in New York, I have used one data-set in the analysis: New York City Airbnb Open Data.
 
 I have followed the CRISP-DM(Cross-Industry Standard Process for Data Mining) process in the analysis:
@@ -44,6 +48,7 @@ I have followed the CRISP-DM(Cross-Industry Standard Process for Data Mining) pr
 + Evaluation : evaluating the model
 + Deployment : communicating the results and the process
 
-## Acknowledgement
 ___________________________________________________________________________________________________________________________
+
+## Acknowledgement
 + I found the data on Kaggle website
